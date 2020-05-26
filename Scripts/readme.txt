@@ -1,1 +1,3 @@
 Pandora: A GIMP script which helps in stitching together multiple images to make a panorama. Filtros->Combinar->Arrange as Panorama...
+
+FX-Foundry: Se trata de una colección de 115 filtros y efectos listos para ser usados directamente sobre tus fotos.  FX-Foundry menu.
